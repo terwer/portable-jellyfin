@@ -8,4 +8,4 @@ services:
      volumes:
        - ./config:/config
        - ./cache:/cache
-       - D:\Media:/media
+       - /Volumes/MDisk/Media:/media
